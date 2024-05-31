@@ -1,0 +1,62 @@
+Proxy server listening
+1: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:52 2024
+1: not in cache
+1: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+1: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+2: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:52 2024
+2: not in cache
+2: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+2: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+3: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:52 2024
+3: not in cache
+3: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+3: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+4: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:53 2024
+4: not in cache
+4: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+4: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+5: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:53 2024
+5: not in cache
+5: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+5: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+6: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:53 2024
+6: not in cache
+6: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+6: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+7: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:54 2024
+7: not in cache
+7: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+7: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+8: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:54 2024
+8: not in cache
+8: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+8: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+9: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:54 2024
+9: not in cache
+9: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+9: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+10: GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:55 2024
+10: not in cache
+10: Requesting GET http://www.man7.org/linux/man-pages/man2/recv.2.html HTTP/1.1 from www.man7.org
+10: Received HTTP/1.1 301 Moved Permanently from www.man7.org
+ERROR STATE CODE301: WARNING HTTP/1.1 301 Moved Permanently
+11: CONNECT mozilla.cloudflare-dns.com:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:55 2024
+12: CONNECT incoming.telemetry.mozilla.org:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:24:55 2024
+13: CONNECT push.services.mozilla.com:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:25:54 2024
+14: CONNECT push.services.mozilla.com:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:25:54 2024
+14: Tunnel closed
+15: CONNECT contile-images.services.mozilla.com:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:27:11 2024
+16: CONNECT www.wikipedia.org:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:27:12 2024
+17: CONNECT spocs.getpocket.com:443 HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:27:16 2024
+18: POST http://r3.o.lencr.org/ HTTP/1.1 from 76.36.238.202 @ Sun Mar  3 01:27:17 2024
+18: Requesting POST http://r3.o.lencr.org/ HTTP/1.1 from r3.o.lencr.org
+19: 

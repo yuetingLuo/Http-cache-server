@@ -1,0 +1,9 @@
+1. When the received response has errors or crashes, we need handle it graceful.
+2. We only support GET, POST and CONNECT methods, in other situation, we need provide a bad response to client.
+3. Instead of exiting the program immediately in the event of an error, the thread must be interrupted to prevent problems with other normally connected pages.
+4. If the logs record requests or responses containing sensitive information (e.g., passwords, personal information) sent over HTTP (instead of HTTPS)
+5. If the response from the server is unusual, like 404 not found, our proxy can handle this  and print it in logs.
+6. When the number of cache block is larger than the capacity of our cache, we will check our chache and delete the oldest cache in it.
+7. When we receive methods that we can not handle, 501 Not Implemented will be sent back to the client.
+8. For cache, one cache doesn't has amx_age or it is 0, we will consider the cache needs revalidate.
+9. The cached entry for a url may initially be of a type that must be revalidated (after expiration). However, in a future update, its cache type may change to not store, in which case we need to remove it from the cache.

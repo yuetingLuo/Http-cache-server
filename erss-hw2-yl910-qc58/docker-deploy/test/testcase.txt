@@ -1,0 +1,16 @@
+GET http://httpbin.org/
+(nomral get method)
+
+POST http://httpbin.org/post
+
+CONNECT www.youtube.com:443 
+
+GET http://www.httpwatch.com/httpgallery/chunked/chunkedimage.aspx
+(chunked data)
+
+GET http://httpbin.org/
+(cache hit, need revalidate)
+
+GET http://xxxxxxx
+GET http://
+(malformed case)
